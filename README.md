@@ -1,3 +1,6 @@
+
+
+<img src="https://github.com/adpipaliya/Adpipaliya/blob/main/App-Screens-Standing-Mockup-PSD.jpg?raw=true" align="right" height="350px" width="420px"/> <br/>
 ### Hey there, I'm Abhishek Pipaliya 👋
   
 - 🌱 I’m currently learning UI/UX Designing
