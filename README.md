@@ -4,5 +4,5 @@
 - 👯 I’m looking to collaborate on Canva
 - 🤔 I’m looking for help with UI Projects
 - 💬 Ask me about Graphic design, social media marketing, Digital Creation, Social Media MArketing.
-- 📫 How to reach me: instagram - @abhi.pipaliya05, facebook - @Abhishek Pipaliya, linkedin - @Abhishek Pipaliya
+- 📫 How to reach me: Instagram - @abhi.pipaliya05, Facebook - @Abhishek Pipaliya, Linkedin - @Abhishek Pipaliya
 - 😄 Pronouns: Hey/AD
