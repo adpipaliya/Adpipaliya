@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/adpipaliya/Adpipaliya/blob/main/App-Screens-Standing-Mockup-PSD.jpg?raw=true" align="center" height="700px" width="7000px"/> <br/><br/><br/>
+<img src="https://github.com/adpipaliya/Adpipaliya/blob/main/App-Screens-Standing-Mockup-PSD.jpg?raw=true" align="center" height="600px" width="7000px"/> <br/><br/><br/>
 ### Hey there, I'm Abhishek Pipaliya 👋
   
 - 🌱 I’m currently learning UI/UX Designing
