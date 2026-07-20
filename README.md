@@ -1,11 +1,60 @@
 
 
-<img src="https://github.com/adpipaliya/Adpipaliya/blob/main/App-Screens-Standing-Mockup-PSD.jpg?raw=true" align="center" height="400px" width="600px"/> <br/><br/><br/>
-### Hey there, I'm Abhishek Pipaliya 👋
-  
-- 🌱 I’m open to work in web design & UI/UX Designing
-- 👯 I’m looking to collaborate on Canva
-- 🤔 I’m looking for help with UI Projects
-- 💬 Ask me about Graphic Sesign, Social Media Marketing, Digital Creation.
-- 📫 How to reach me: Instagram - abhi.pipaliya05, Facebook - Abhishek Pipaliya, Linkedin - Abhishek Pipaliya
-- 😄 Pronouns: Hey/AD
+<h1 align="center">Hi 👋, I'm Abhishek Pipaliya</h1>
+
+<h3 align="center">
+Aspiring System Administrator | Networking Enthusiast | Future Cybersecurity Engineer
+</h3>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Currently learning **IT Infrastructure & System Administration**
+- 🌐 Learning **Networking, Windows Server, Linux & Cybersecurity**
+- 🖥️ Hands-on with **Windows 11, VirtualBox and VMware**
+- 📚 Currently studying **Computer Hardware, Networking Fundamentals & System Administration**
+- 🚀 Goal: Become a **Cybersecurity Engineer**
+
+---
+
+## 🛠️ Skills
+
+### Operating Systems
+
+- Windows 11
+- Linux (Learning)
+
+### Virtualization
+
+- VirtualBox
+- VMware (Learning)
+
+### Networking
+
+- LAN
+- WAN
+- TCP/IP (Learning)
+- DNS
+- DHCP
+- Subnetting (Learning)
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Figma
+- Canva
+
+---
+
+## 🌱 Currently Learning
+
+- Windows Server
+- Linux Administration
+- Networking
+- Cybersecurity
+- Active Directory
+
+---
